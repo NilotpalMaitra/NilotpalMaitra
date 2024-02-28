@@ -1,6 +1,7 @@
 
 <h1 align="center">👋 Hi, I’m NilotpalMaitra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NilotpalMaitra7&label=Profile%20views&color=0e75b6&style=flat" alt="NilotpalMaitra" /> </p>
+
 - An Undergraduate Student in NIT Warangal pursuing Electronics and Communication Engineering. 
 - Interested in Various Machine learning Algorithms, API integration in ML 
 - 📫 How to reach me - nilotpalm2015@gmail.com
