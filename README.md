@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<h3 align="left">Info about me :</h3>
 - An Undergraduate Student in NIT Warangal pursuing Electronics and Communication Engineering. 
 - Currently exploring different fields and domains:)) but highly interested in Machine learning Algorithms, API integration in ML, AI in drone technology and trying to deepdive more in this field. 
 - 📫 How to reach me - nilotpalm2015@gmail.com
