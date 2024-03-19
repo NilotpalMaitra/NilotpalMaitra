@@ -6,19 +6,24 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<h3 align="left">Info about me :</h3>
+<h3 align="Middle">Info about me :</h3>
+
 - An Undergraduate Student in NIT Warangal pursuing Electronics and Communication Engineering. 
-- Currently exploring different fields and domains:)) but highly interested in Machine learning Algorithms, API integration in ML, AI in drone technology and trying to deepdive more in this field. 
+
+- I'm now investigating a variety of topics and domains. I'm particularly interested in learning about machine learning algorithms, ML API integration, AI in drone technology, and trying to go deeper into these areas. 
+
 - 📫 How to reach me - nilotpalm2015@gmail.com
-<h3 align="left">Languages and Tools:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NilotpalMaitra&show_icons=true&locale=en&layout=compact" alt="NilotpalMaitra" /></p>
+<h3 align="Middle">Languages and Tools:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NilotpalMaitra&show_icons=true&locale=en" alt="NilotpalMaitra" /></p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NilotpalMaitra&theme=highcontrast" alt="GitHub Streak" /></a>
-</div>
+<div align=center >
 
----
-![Snake animation](https://github.com/NilotpalMaitra/NilotpalMaitra1/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NilotpalMaitra&theme=codeSTACKr&show_icons=true)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NilotpalMaitra&theme=codestackr&fire=EBDC3C&card_width=400&border=EB545400)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NilotpalMaitra&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 NilotpalMaitra/NilotpalMaitra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
