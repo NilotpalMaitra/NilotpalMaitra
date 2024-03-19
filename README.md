@@ -15,6 +15,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NilotpalMaitra&show_icons=true&locale=en" alt="NilotpalMaitra" /></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NilotpalMaitra&theme=highcontrast" alt="GitHub Streak" /></a>
+</div>
+
+---
+![Snake animation](https://github.com/NilotpalMaitra/NilotpalMaitra1/blob/output/github-contribution-grid-snake-dark.svg)
 <!---
 NilotpalMaitra/NilotpalMaitra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
