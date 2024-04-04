@@ -8,11 +8,11 @@
 </div>
 <h3 align="Middle">Info about me :</h3>
 
-- An Undergraduate Student in NIT Warangal pursuing Electronics and Communication Engineering. 
+- I am currently an undergraduate student pursuing Electronics and Communication Engineering at NIT Warangal. My academic pursuits are complemented by a keen interest in exploring diverse topics and domains, with a focus on machine learning algorithms, ML API integration, and the application of AI in drone technology.
 
-- I'm now investigating a variety of topics and domains. I'm particularly interested in learning about machine learning algorithms, ML API integration, AI in drone technology, and trying to go deeper into these areas. 
+- I am committed to expanding my knowledge and understanding in these areas, and I am enthusiastic about engaging in meaningful projects and collaborations that contribute to these fields.
 
-- 📫 How to reach me - nilotpalm2015@gmail.com
+- 📫 Should you wish to get in touch, please feel free to reach me at nilotpalm2015@gmail.com. I look forward to any potential opportunities for learning and growth.
 <h3 align="Middle">Languages and Tools:</h3>
 
 <div align=center >
