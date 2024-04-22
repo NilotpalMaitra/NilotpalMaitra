@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I’m NilotpalMaitra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NilotpalMaitra7&label=Profile%20views&color=0e75b6&style=flat" alt="NilotpalMaitra" /> </p>
 <div id="badges">
-  <a href="www.linkedin.com/in/Nilotpal Maitra">
+  <a href="[www.linkedin.com/in/Nilotpal Maitra](https://www.linkedin.com/in/nilotpal-maitra-636018267/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
