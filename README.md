@@ -8,7 +8,7 @@
 </div>
 <h3 align="Middle">Info about me :</h3>
 
-- I am currently an undergraduate student pursuing Electronics and Communication Engineering at NIT Warangal. My academic pursuits are complemented by a keen interest in exploring diverse topics and domains, with a focus on machine learning algorithms, ML API integration, and the application of AI in drone technology.
+- I am currently an undergraduate student pursuing Electronics and Communication Engineering at NIT Warangal. My academic pursuits are complemented by a keen interest in exploring diverse topics and domains, with a focus on machine learning algorithms, ML API integration, and Deep Learning algorithms.
 
 - I am committed to expanding my knowledge and understanding in these areas, and I am enthusiastic about engaging in meaningful projects and collaborations that contribute to these fields.
 
