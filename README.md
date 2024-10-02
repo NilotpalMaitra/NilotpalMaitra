@@ -5,6 +5,10 @@
   <a href="www.linkedin.com/in/nilotpal-maitra-636018267">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.kaggle.com/nilotpalmaitra" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20A5E8?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+</a>
+
 </div>
 <h3 align="Middle">Info about me :</h3>
 
